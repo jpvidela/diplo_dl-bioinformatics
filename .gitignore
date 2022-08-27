@@ -3,3 +3,4 @@ models/
 .ipynb_checkpoints/
 venv/
 .DS_Store
+ejemplo/
